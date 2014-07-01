@@ -1,0 +1,9 @@
+[package]
+name = "svg_test"
+version = "0.0.1"
+authors = ["wooya@silic.org"]
+
+[dependencies.svg]
+git = "https://github.com/jeremyletang/svg"
+
+
